@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.ef55618d.chunk.css",
-    "main.js": "/static/js/main.f1cf5a4a.chunk.js",
-    "main.js.map": "/static/js/main.f1cf5a4a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c2a4ebfe.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c2a4ebfe.js.map",
-    "static/js/2.3f4c1b18.chunk.js": "/static/js/2.3f4c1b18.chunk.js",
-    "static/js/2.3f4c1b18.chunk.js.map": "/static/js/2.3f4c1b18.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.0979c0fde3d7cef72072cfa7d71b4bc4.js": "/precache-manifest.0979c0fde3d7cef72072cfa7d71b4bc4.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.ef55618d.chunk.css.map": "/static/css/main.ef55618d.chunk.css.map"
+    "main.css": "/wutangreact/static/css/main.ef55618d.chunk.css",
+    "main.js": "/wutangreact/static/js/main.f1cf5a4a.chunk.js",
+    "main.js.map": "/wutangreact/static/js/main.f1cf5a4a.chunk.js.map",
+    "runtime-main.js": "/wutangreact/static/js/runtime-main.ac948b74.js",
+    "runtime-main.js.map": "/wutangreact/static/js/runtime-main.ac948b74.js.map",
+    "static/js/2.3f4c1b18.chunk.js": "/wutangreact/static/js/2.3f4c1b18.chunk.js",
+    "static/js/2.3f4c1b18.chunk.js.map": "/wutangreact/static/js/2.3f4c1b18.chunk.js.map",
+    "index.html": "/wutangreact/index.html",
+    "precache-manifest.60a71299bbf78af650dd7bdc6ed732af.js": "/wutangreact/precache-manifest.60a71299bbf78af650dd7bdc6ed732af.js",
+    "service-worker.js": "/wutangreact/service-worker.js",
+    "static/css/main.ef55618d.chunk.css.map": "/wutangreact/static/css/main.ef55618d.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.c2a4ebfe.js",
+    "static/js/runtime-main.ac948b74.js",
     "static/js/2.3f4c1b18.chunk.js",
     "static/css/main.ef55618d.chunk.css",
     "static/js/main.f1cf5a4a.chunk.js"
