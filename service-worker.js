@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wutangreact/precache-manifest.6bc1bf3535c9021207ec067e6c92f731.js"
+  "/wutangreact/precache-manifest.cdeaa822a1504f4bf06b33359d5a0d0a.js"
 );
 
 self.addEventListener('message', (event) => {
