@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a3278032b15699b83c552638afc7faa",
+    "revision": "8d747b159fc22970a14fdcede91c56db",
     "url": "/wutangreact/index.html"
   },
   {
